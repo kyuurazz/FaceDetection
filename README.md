@@ -1,1 +1,1 @@
-# Face Detection using OpenCV# Face-Detection
+# Face Detection using OpenCV
